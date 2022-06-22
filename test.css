@@ -1,0 +1,14 @@
+/* Create wuth comments */
+/* Create Some Bootstrap Cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 100%;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+
+/* Create with function */
+.body {
+  padding: 2px 16px;
+}
